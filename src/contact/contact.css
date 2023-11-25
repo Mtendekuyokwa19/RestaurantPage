@@ -1,0 +1,30 @@
+.boxInfo{
+
+display: flex;
+
+text-align: center;
+align-items: center;
+height: 98vh;
+flex-direction: column;
+
+
+
+}  
+
+
+.informationBackdrop{
+
+display: flex;
+justify-content: center;
+align-items: center;
+/* border: solid 2px red; */
+
+padding: 0px 40px 0px 0px;
+
+}
+.information{
+
+font-size: 34px;
+
+
+}
